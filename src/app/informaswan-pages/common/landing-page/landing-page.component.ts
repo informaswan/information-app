@@ -15,7 +15,7 @@ import { CardComponent } from '../card/card.component';
 export class LandingPageComponent {
   muscle_title = "Muscle Map";
   muscle_content = "This will help guide you in what exercises help what muscle.";
-  muscle_image = "'assets/images/muscle_front_20.JPG'";
+  muscle_image = 'assets/images/muscle_front_20.JPG';
   poker_title = "How to play poker";
   poker_content = "This is a game that will show you how to play poker";
   poker_image = "'assets/images/muscle_front_20.JPG'";

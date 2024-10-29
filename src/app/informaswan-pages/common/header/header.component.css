@@ -1,0 +1,20 @@
+.nav-list {
+    list-style-type: none; /* Remove bullet points */
+    display: flex;         /* Align items in a row */
+    padding: 0;           /* Remove default padding */
+    margin: 0;            /* Remove default margin */
+  }
+  
+  .nav-list li {
+    margin-right: 20px;   /* Space between items */
+  }
+  
+  .nav-list a {
+    text-decoration: none; /* Remove underline from links */
+    color: black;         /* Set link color */
+  }
+  
+  .nav-list a:hover {
+    text-decoration: underline; /* Underline on hover (optional) */
+  }
+  
